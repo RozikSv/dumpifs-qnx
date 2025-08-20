@@ -1,9 +1,3 @@
-Google Git
-Switch user
-Sign out
-‪Сергей Розик‬ <toopanchos@gmail.com>
-android / platform / system / update_engine / refs/tags/android-vts-15.0_r5 / . / update_metadata.proto
-blob: 6d16da40e53720078b2e4f3689dbb296eb325bee [file] [log] [blame]
 //
 // Copyright (C) 2010 The Android Open Source Project
 //
@@ -379,6 +373,3 @@ message DeltaArchiveManifest {
   // yyyy-mm-dd
   optional string security_patch_level = 18;
 }
-Powered by Gitiles| Privacy| Terms
-txt
-json
